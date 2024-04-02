@@ -18,3 +18,5 @@ include:
     shield: myboard_left
   - board: nice_nano_v2
     shield: myboard_right
+  - board: nice_nano_v2
+    shield: settings_reset
